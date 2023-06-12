@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body {
+	  background-color: dimgrey;
+} 
+h1 {
+	color: antiquewhite;
+	font-family: arial;
+	font-size: 40px;
+} 
+h2 {
+	color: antiquewhite;
+	font-family: arial;
+	font-size: 30px;
+} 
+a {
+	line-height: 50px;
+	padding: 2px;
+	background-color: white;
+	color: black;
+	font-family: arial;
+	font-size: 30px;
+	border: 1px solid #ff000;
+} 
+p {
+	color: white;
+	font-family: serif;
+	font-size: 25px;
+}   
