@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+
+title {
+	@font-face font-family: BartolBilic; src: url('BartolBilic.ttf'); 
+	font-family: "BartolBilic";
+	src: url("FONTS/BartolBilic.ttf");
+}
+body {
+	background-image: url("IMAGES/IMAGE1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+} 
+h1 {
+	color: white;
+	@font-face font-family: BartolBilic; src: url('BartolBilic.ttf'); 
+	font-family: "BartolBilic";
+	src: url("FONTS/BartolBilic.ttf");
+	font-size: 60px;
+} 
+h2 {
+	color: white;
+	font-family: arial;
+	font-size: 40px;
+} 
+a {
+	line-height: 50px;
+	padding: 2px;
+	background-color: white;
+	color: black;
+	font-family: arial;
+	font-size: 30px;
+	border: 1px solid #ff000;
+} 
+p {
+	color: white;
+	font-family: arial;
+	font-size: 30px;
+}   
+mark {
+	color: black;
+	background-color: white;
+	padding: 10px;
+}
